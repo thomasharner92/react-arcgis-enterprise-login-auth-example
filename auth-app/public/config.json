@@ -1,0 +1,10 @@
+{
+    "app": {
+      "portalUrl": "https://nysdotsordev11.esri.com/portal",
+      "appId": "RZbeFYf3F8v8OhaZ"
+    },
+    "map": {
+        "mapId": "452c3ca970eb43519ac0106b1a34ab50"
+
+    }
+  }

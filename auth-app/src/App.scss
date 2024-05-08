@@ -1,0 +1,8 @@
+.app {
+  display: grid;
+  grid-template-rows: 75px 1fr;
+  grid-template-columns: 1fr;
+  grid-template-areas: "header" "map";
+  height: 100%;
+  width: 100%;
+}
